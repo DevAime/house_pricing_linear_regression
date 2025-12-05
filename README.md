@@ -29,15 +29,11 @@ This project analyzes the California Housing dataset to build predictive models 
 ## Project Structure
 
 ```
-├── house_pricing.ipynb           # Main Jupyter notebook with complete analysis
-├── house_pricing_app.py          # Streamlit web application
-├── requirements.txt              # Python dependencies
-├── README.md                     # Project documentation
-└── screenshots/                  # Folder for images (create this)
-    ├── app_main.png             # Main app interface screenshot
-    ├── model_comparison.png     # Model performance comparison chart
-    ├── predictions_plot.png     # Predictions vs actual values plot
-    └── feature_correlations.png # Feature correlation visualization
+├── house_pricing.ipynb           
+├── house_pricing_app.py       
+├── requirements.txt             
+├── README.md                     
+
 ```
 
 ## Installation
